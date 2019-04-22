@@ -16,3 +16,22 @@ cat README.txt
 [Otters are not only cute they can also be quite silly](https://youtu.be/ptkytDOVFN0)
 <br>
 
+
+## Grade Duscission #1: 20/20
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Challenge - Effort | **X** | | | |
+| Challenge - Accuracy | **X** | | | |
+| Challenge - Timely Submission | **X** | | | |
+
+
+## Grade Duscission #2: 20/20
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Challenge - Effort | **X** | | | |
+| Challenge - Accuracy | **X** | | | |
+| Challenge - Timely Submission | **X** | | | |
